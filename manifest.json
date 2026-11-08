@@ -1,0 +1,18 @@
+{
+  "name": "Roots and Threads",
+  "short_name": "R&T",
+  "description": "Roots and Threads : vêtements, chaussures, sacs, accessoires et parfums. Commandez en ligne, payez avec Wave ou Orange Money.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF3F8",
+  "theme_color": "#FFB6D9",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
